@@ -1,16 +1,21 @@
-# My Profile
+## Wonbin Yang
 
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Bridging-nl-Physics%20and%20Electronics)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=B.S.+in+DGIST+2025~)](https://git.io/typing-svg)
-### 🎓 Academic Background
-- **DGIST Sophomore**
-- **Major:** Electrical Engineering
-- **Minor:** Physics
-### 🔥 Passionate About...
-- **Data Processing**
-- **Robotics and Embedded System**
-### ✉️ Contact
-- **Email:** yang_wb155@dgist.ac.kr
-- **Location:** Daegu, South Korea 
+B.S. student in **Electrical Engineering and Computer Science** at DGIST.
 
-                  
+### Research interests
+
+- Integrated Sensing and Communication (ISAC) for 6G
+- AI for wireless and radar signal processing
+- Micro-Doppler based sensing
+
+### What I build here
+
+Most of the repositories below are things I wanted to exist and then wrote end to end: an Android reader for new papers, an automated card generator with a fact-checking step, a screener over US equity data. They are how I practice system design, background jobs, and testing outside of coursework.
+
+### Tools
+
+Python | C++ | Kotlin | Jetpack Compose | NumPy | pandas
+
+### Contact
+
+yang_wb155@dgist.ac.kr
